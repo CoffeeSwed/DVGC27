@@ -1,0 +1,14 @@
+Beagle.JPG
+['Dog_Beagle']
+Box and brittish shorthair.webp
+['Dog_Boxer']
+Boxer.jpg
+['Dog_Boxer']
+BrittishShortHairAndBoxer.png
+[]
+Fish.jpg
+['Cat_Sphynx']
+persian_cat.jpg
+['Cat_Persian']
+Two dogs.jpeg
+['Dog_Pug']
